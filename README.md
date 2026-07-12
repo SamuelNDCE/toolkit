@@ -4,7 +4,7 @@ An index of tools and automation built around [Claude Code](https://claude.com/c
 
 | Repo | What it is |
 |------|------------|
-| [agent-skills-library](https://github.com/SamuelNDCE/agent-skills-library) | 285 Claude Code Skills covering software engineering, AI-engineering patterns, DevOps, and workflow automation. |
+| [agent-skills-library](https://github.com/SamuelNDCE/agent-skills-library) | 282 Claude Code Skills covering software engineering, AI-engineering patterns, DevOps, and workflow automation. Featuring `braindump`/`superbraindump`, a prompt fixer: turn a messy brain dump into a clean prompt with no prompt engineering. |
 | [discord-ops-bot](https://github.com/SamuelNDCE/discord-ops-bot) | Discord "ops hub" bot: Shopify watchers, Meta ads monitoring/auto-posting, Netlify deploys, team todo list, email support bridge. Fully env-configurable. |
 | [jarvis-assistant](https://github.com/SamuelNDCE/jarvis-assistant) | On-device voice-assistant engine in Rust — wake word, whisper.cpp STT, piper TTS, Claude API reasoning loop. |
 | [misc-tools](https://github.com/SamuelNDCE/misc-tools) | Small single-purpose tools: a Composio agent, lead-mapping scripts, a video-episode pipeline, SVG utilities. |
