@@ -5,7 +5,7 @@ An index of tools and automation built around [Claude Code](https://claude.com/c
 | Repo | What it is |
 |------|------------|
 | [claude-super-skill-library](https://github.com/SamuelNDCE/claude-super-skill-library) | 287 Claude Code Skills covering software engineering, AI-engineering patterns, DevOps, and workflow automation, organized into 13 category folders. Featuring `braindump`/`superbraindump`, a prompt fixer: turn a messy brain dump into a clean prompt with no prompt engineering. |
-| [claude-skill-forge](https://github.com/SamuelNDCE/claude-skill-forge) | Just the skills I wrote from scratch: the prompt-fixer family, `windows-process-restart`, and `repo-hygiene`. Separate from the larger curated library above. |
+| [claude-workbench](https://github.com/SamuelNDCE/claude-workbench) | What I actually use to build with Claude Code: skills I wrote from scratch (the prompt-fixer family, `windows-process-restart`, `repo-hygiene`, and more), plus my most-used skills, MCP servers, CLI tools, and conventions from the rest of the library. |
 | [discord-ops-bot](https://github.com/SamuelNDCE/discord-ops-bot) | Discord "ops hub" bot: Shopify watchers, Meta ads monitoring/auto-posting, Netlify deploys, team todo list, email support bridge. Fully env-configurable. |
 | [cortex-assistant](https://github.com/SamuelNDCE/cortex-assistant) | On-device voice-assistant engine in Rust — wake word, whisper.cpp STT, piper TTS, Claude API reasoning loop. |
 
