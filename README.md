@@ -5,7 +5,7 @@ An index of tools and automation built around [Claude Code](https://claude.com/c
 | Repo | What it is |
 |------|------------|
 | [claude-super-skill-library](https://github.com/SamuelNDCE/claude-super-skill-library) | 287 Claude Code Skills covering software engineering, AI-engineering patterns, DevOps, and workflow automation, organized into 13 category folders. Featuring `braindump`/`superbraindump`, a prompt fixer: turn a messy brain dump into a clean prompt with no prompt engineering. |
-| [claude-workbench](https://github.com/SamuelNDCE/claude-workbench) | What I actually use to build with Claude Code: skills I wrote from scratch (the prompt-fixer family, `windows-process-restart`, `repo-hygiene`, and more), plus my most-used skills, MCP servers, CLI tools, and conventions from the rest of the library. |
+| [ai-workbench](https://github.com/SamuelNDCE/ai-workbench) | The skills, rules and habits I use to build with AI coding agents, ranked by how much I use them. Works with Claude Code, Codex and Hermes, with a one-command install. Includes my own skills (session handoff, design review loop, secret scans, verification) and my setup: MCP servers, hooks, and how I work. |
 | [discord-ops-bot](https://github.com/SamuelNDCE/discord-ops-bot) | Discord "ops hub" bot: Shopify watchers, Meta ads monitoring/auto-posting, Netlify deploys, team todo list, email support bridge. Fully env-configurable. |
 | [cortex-assistant](https://github.com/SamuelNDCE/cortex-assistant) | On-device voice-assistant engine in Rust — wake word, whisper.cpp STT, piper TTS, Claude API reasoning loop. |
 
